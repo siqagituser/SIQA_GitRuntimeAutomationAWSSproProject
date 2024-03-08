@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SIQA_GitRuntimeAutomationAWSSproProject
+  gitServerName: siqagituser
+  gitUrl: https://github.com/siqagituser/SIQA_GitRuntimeAutomationAWSSproProject
+  gitUsername: siqagituser
+  gitBranch: main
